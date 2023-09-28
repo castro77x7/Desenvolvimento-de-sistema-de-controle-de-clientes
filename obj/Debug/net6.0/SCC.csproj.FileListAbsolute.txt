@@ -1,0 +1,15 @@
+C:\Users\user\Documents\_SENAI_CSHARP\SCC\bin\Debug\net6.0\SCC.exe
+C:\Users\user\Documents\_SENAI_CSHARP\SCC\bin\Debug\net6.0\SCC.deps.json
+C:\Users\user\Documents\_SENAI_CSHARP\SCC\bin\Debug\net6.0\SCC.runtimeconfig.json
+C:\Users\user\Documents\_SENAI_CSHARP\SCC\bin\Debug\net6.0\SCC.dll
+C:\Users\user\Documents\_SENAI_CSHARP\SCC\bin\Debug\net6.0\SCC.pdb
+C:\Users\user\Documents\_SENAI_CSHARP\SCC\obj\Debug\net6.0\SCC.csproj.AssemblyReference.cache
+C:\Users\user\Documents\_SENAI_CSHARP\SCC\obj\Debug\net6.0\SCC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\_SENAI_CSHARP\SCC\obj\Debug\net6.0\SCC.AssemblyInfoInputs.cache
+C:\Users\user\Documents\_SENAI_CSHARP\SCC\obj\Debug\net6.0\SCC.AssemblyInfo.cs
+C:\Users\user\Documents\_SENAI_CSHARP\SCC\obj\Debug\net6.0\SCC.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\_SENAI_CSHARP\SCC\obj\Debug\net6.0\SCC.dll
+C:\Users\user\Documents\_SENAI_CSHARP\SCC\obj\Debug\net6.0\refint\SCC.dll
+C:\Users\user\Documents\_SENAI_CSHARP\SCC\obj\Debug\net6.0\SCC.pdb
+C:\Users\user\Documents\_SENAI_CSHARP\SCC\obj\Debug\net6.0\SCC.genruntimeconfig.cache
+C:\Users\user\Documents\_SENAI_CSHARP\SCC\obj\Debug\net6.0\ref\SCC.dll
